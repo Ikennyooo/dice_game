@@ -1,1 +1,2 @@
-# Ikennyooo.github.io
+# 使用事项
+下载压缩包之后，点击index.html文件即可进行游戏。
